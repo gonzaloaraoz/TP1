@@ -4,3 +4,5 @@ En la tercera y cuarta versiones se harán cambios independientes
 que no generen conflictos a partir de la segunda versión.
 La quinta versión tomará como punto de partida la tercera versión para mezclar los cambios realizados en la cuarta versión.
 En la tercera y cuarta versiones se harán cambios independientes que no generen conflictos a partir de la segunda versión.
+La quinta versión tomará como punto de partida la tercera versión para mezclar los cambios realizados en la cuarta versión.
+
