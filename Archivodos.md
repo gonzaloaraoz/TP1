@@ -12,3 +12,4 @@ La sexta versión tomará como punto de partida a la cuarta versión y realizar�
 $$
 La quinta versión tomará como punto de partida la tercera versión para mezclar los cambios realizados en la cuarta versión.
 
+La sexta versión tomará como punto de partida a la cuarta versión y realizará cambios que generen conflictos con los cambios efectuados en la tercera versión.
